@@ -1,4 +1,4 @@
-<h3 align="center">Desenvolvedor Web Fullstack</h3>
+<h3 align="center">Fullstack Web Developer</h3>
 
 - 🔭 I’m currently working on **A Lost Ark online utilities app**
 
